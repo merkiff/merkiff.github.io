@@ -4,5 +4,32 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+## Kim Minseong
+
+### info
+
+- **학력** : 단국대학교 산업보안학과 재학
+- **관심분야** : OT 보안, IoT 보안, 시큐어 코딩
+- **contact**
+  - minseong1220@gmail.com
+- **blog**
+  - https://kiffblog.tistory.com
+  - https://merkiff.github.io
+
+---
+
+### certificates
+
+- 산업보안관리사
+- 네트워크관리사 2급
+
+---
+
+### skills
+
+---
+
+### activites
+
+- 제3기 KISIA 대학생 기자단(2023.05.31 ~ 2023.12.31)
+- ICT융합산업보안 제1기 융합보안크루 - IoT 보안(2023.12.06~)
