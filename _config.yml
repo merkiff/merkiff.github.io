@@ -20,7 +20,7 @@ timezone: Asia/Seoul
 
 title: isotope의 DRIVE:C # the main title
 
-tagline: analogrammer - 아날로그 감성이 좋은 보안학과생. # it will display as the sub-title
+tagline: analogrammer - 아날로그 감성이 좋은 산업보안학과 학생. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   해킹, 산업보안, 정보보안, 프로그래밍, 알고리즘 등을 다룹니다.
@@ -37,8 +37,8 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Kim Minseong
+  email: minseong1220@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/merkiff # change to your github homepage

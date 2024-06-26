@@ -13,19 +13,24 @@ order: 4
 - **contact**
   - minseong1220@gmail.com
 - **blog**
-  - https://kiffblog.tistory.com
-  - https://merkiff.github.io
+  - [https://blog.naver.com/gytls1220](https://blog.naver.com/gytls1220)
+  - [https://kiffblog.tistory.com](https://kiffblog.tistory.com)
+  - [https://merkiff.github.io](https://merkiff.github.io)
 
 ---
 
 ### certificates
 
-- 산업보안관리사
-- 네트워크관리사 2급
+- 산업보안관리사(2023.12.01 취득)
+- 네트워크관리사 2급(2023.10.18 취득)
 
 ---
 
 ### skills
+
+- C
+- C++
+- Rust
 
 ---
 
@@ -38,4 +43,4 @@ order: 4
 ### activites
 
 - 제3기 KISIA 대학생 기자단(2023.05.31 ~ 2023.12.31)
-- ICT융합산업보안 제1기 융합보안크루 - IoT 보안(2023.12.06~)
+- ICT융합산업보안 제1기 융합보안크루 - IoT 보안(2023.12.06 ~ 2024.06.26)
